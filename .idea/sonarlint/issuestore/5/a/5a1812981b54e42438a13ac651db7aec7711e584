@@ -1,0 +1,13 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Û Ïæûÿÿÿÿ8àµ¸ÃÍ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡¾Á‚8–ÆºÃÍ/
+m
+java:S1104"QMake n_pub a static final constant or non-public and provide accessors if needed.(õç-8…¼·ÃÍ/
+k	java:S116"PRename this field "n_pub" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õç-8…¼·ÃÍ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(àõ—‘8†¨¹ÃÍ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Èß†æøÿÿÿÿ8õş»ÃÍ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±¤Â´
+q	java:S116"PRename this field "n_pri" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÖ•Åüÿÿÿÿ8…¼·ÃÍ/
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(‚±¹„øÿÿÿÿ8…¼·ÃÍ/
+q	java:S116"PRename this field "n_pro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù®ñŞıÿÿÿÿ8…¼·ÃÍ/
