@@ -1,0 +1,14 @@
+
+E
+java:S1481"(Remove this unused "ob1" local variable.(¡å»¢8ôæñÃÍ/
+T
+java:S1854"7Remove this useless assignment to local variable "ob1".(¡å»¢8ôæñÃÍ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±¤Â´
+J
+java:S1481"(Remove this unused "ob2" local variable.(¦‡Ûúÿÿÿÿ8ôæñÃÍ/
+E
+java:S1481"(Remove this unused "ob3" local variable.(Ä©éÆ8ôæñÃÍ/
+Y
+java:S1854"7Remove this useless assignment to local variable "ob2".(¦‡Ûúÿÿÿÿ8ôæñÃÍ/
+T
+java:S1854"7Remove this useless assignment to local variable "ob3".(Ä©éÆ8ôæñÃÍ/
