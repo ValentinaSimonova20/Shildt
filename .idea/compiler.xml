@@ -2,6 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="appstart" target="11" />
+      <module name="appstart.main" target="11" />
+      <module name="appstart.test" target="11" />
       <module name="Shildt" target="8" />
     </bytecodeTargetLevel>
   </component>

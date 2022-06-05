@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Shildt.iml" filepath="$PROJECT_DIR$/Shildt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mymodapp/appsrc/appfuncs/appfuncs.iml" filepath="$PROJECT_DIR$/../mymodapp/appsrc/appfuncs/appfuncs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mymodapp/appsrc/appstart/appstart.iml" filepath="$PROJECT_DIR$/../mymodapp/appsrc/appstart/appstart.iml" />
     </modules>
   </component>
 </project>
